@@ -1,0 +1,116 @@
+{smcl}
+
+{txt}{net "from http://repec.org/bocode":SSC} Stata modules created or revised 2018-11-02 to 2018-12-02
+{hline}
+
+{net "describe http://repec.org/bocode/m/motivate":MOTIVATE}
+{txt} module providing motivation to users{txt} Authors:  Kabira Namit       Req: Stata version 10
+{txt} Created: 2018-11-23
+
+{net "describe http://repec.org/bocode/s/svmachines":SVMACHINES}
+{txt} module providing Support Vector Machines for both Classification and Regression{txt} Authors: Nick Guenther  Matthias Schonlau       Req: Stata version 13
+{txt} Revised: 2018-11-22
+
+{net "describe http://repec.org/bocode/h/hrimvol":HRIMVOL}
+{txt} module providing simple option implied volatility calculator{txt} Authors:  Zhiyong Li       Req: Stata version 13.1
+{txt} Created: 2018-11-17
+
+{net "describe http://repec.org/bocode/e/epresent":EPRESENT}
+{txt} module to present non-linear relationships in regression models with log or logit-link{txt} Authors: Till Ittermann       Req: Stata version 13
+{txt} Created: 2018-11-16
+
+{net "describe http://repec.org/bocode/a/admetan":ADMETAN}
+{txt} module to provide comprehensive meta-analysis{txt} Authors: David Fisher       Req: Stata version 11 
+{txt} Created: 2018-11-16
+
+{net "describe http://repec.org/bocode/b/betterbar":BETTERBAR}
+{txt} module to produce bar graphs with optional standard error bars and cross-group comparisons{txt} Authors: Benjamin Daniels       Req: Stata version 13.1
+{txt} Revised: 2018-11-16
+
+{net "describe http://repec.org/bocode/j/jformat":JFORMAT}
+{txt} module to justify formats for a list of variables{txt} Authors: Roger Newson       Req: Stata version 10
+{txt} Created: 2018-11-04
+
+{net "describe http://repec.org/bocode/e/elabel":ELABEL}
+{txt} module to extend the label commands{txt} Authors: Daniel Klein       Req: Stata version 11.2
+{txt} Created: 2018-11-03
+
+{net "describe http://repec.org/bocode/d/dtastamp":DTASTAMP}
+{txt} module to store current date and time in dataset characteristics{txt} Authors: Roger Newson       Req: Stata version 10
+{txt} Created: 2018-11-03
+
+{net "describe http://repec.org/bocode/g/gziputil":GZIPUTIL}
+{txt} module to provide access to gzipped files{txt} Authors: Matthias Gomolka       Req: Stata version 15
+{txt} Revised: 2018-11-03
+
+{net "describe http://repec.org/bocode/d/drm":DRM}
+{txt} module to fit Sobel's Diagonal Reference Model (DRM){txt} Authors: Caspar Kaiser       Req: Stata version 12
+{txt} Revised: 2018-11-23
+
+{net "describe http://repec.org/bocode/c/cv_regress":CV_REGRESS}
+{txt} module to estimate the leave-one-out error for linear regression models{txt} Authors: Fernando Rios-Avila       Req: Stata version 7
+{txt} Revised: 2018-11-23
+
+{net "describe http://repec.org/bocode/m/mixmcm":MIXMCM}
+{txt} module to estimate finite mixtures of non-stationary Markov chain models  by maximum likelihood (ML) and the Expectation-Maximization (EM) algorithm{txt} Authors: Legrand D. F. Saint-Cyr  Laurent Piet       Req: Stata version 13
+{txt} Revised: 2018-11-16
+
+{net "describe http://repec.org/bocode/f/funnelperform":FUNNELPERFORM}
+{txt} module to produce funnel plot for institutional comparison{txt} Authors: Brent McSharry       Req: Stata version 9.1
+{txt} Revised: 2018-14-18
+
+{net "describe http://repec.org/bocode/b/balancetable":BALANCETABLE}
+{txt} module to build a balance table and print it in a LaTeX file or an Excel file{txt} Authors: Mattia Chiapello       Req: Stata version 14 and listtab from SSC (q.v.)
+{txt} Revised: 2018-11-23
+
+{net "describe http://repec.org/bocode/s/sendtoslack":SENDTOSLACK}
+{txt} module to send notifications from Stata to your smartphone through Slack{txt} Authors:  Jesse Wursten       Req: Stata version 8
+{txt} Revised: 2018-11-08
+
+{net "describe http://repec.org/bocode/t/tvdiff":TVDIFF}
+{txt} module to compute pre- and post-treatment estimation of the Average Treatment Effect (ATE) with binary time-varying treatment{txt} Authors: Giovanni Cerulli  Marco Ventura       Req: Stata version 14 and coefplot from SSC (q.v.)
+{txt} Revised: 2018-11-23
+
+{net "describe http://repec.org/bocode/w/wid":WID}
+{txt} module to download data from the World Wealth and Income Database (WID.world){txt} Authors: Thomas Blanchet       Req: Stata version 13
+{txt} Revised: 2018-11-23
+
+{net "describe http://repec.org/bocode/a/asreg":ASREG}
+{txt} module to estimate rolling window regressions. Fama-MacBeth and by(group) regressions{txt} Authors: Attaullah Shah       Req: Stata version 11
+{txt} Revised: 2018-11-16
+
+{net "describe http://repec.org/bocode/e/entropyetc":ENTROPYETC}
+{txt} module for entropy and related measures for categories{txt} Authors: Nicholas J. Cox       Req: Stata version 11.2
+{txt} Revised: 2018-11-23
+
+{net "describe http://repec.org/bocode/s/simarwilson":SIMARWILSON}
+{txt} module to perform Simar & Wilson (2007) efficiency analysis{txt} Authors: Oleg Badunenko  Harald Tauchmann       Req: Stata version 12 and teradial (st0444) from SJ16:3 (q.v.)
+{txt} Revised: 2018-11-16
+
+{net "describe http://repec.org/bocode/i/ietoolkit":IETOOLKIT}
+{txt} module providing commands specially developed for Impact Evaluations{txt} Authors: DIME Analytics       Req: Stata version 11 
+{txt} Revised: 2018-11-16
+
+{net "describe http://repec.org/bocode/b/boottest":BOOTTEST}
+{txt} module to provide fast execution of the wild bootstrap with null imposed{txt} Authors: David Roodman       Req: Stata version 11.2
+{txt} Revised: 2018-11-08
+
+{net "describe http://repec.org/bocode/x/xtcips":XTCIPS}
+{txt} module to compute Pesaran Panel Unit Root Test in the Presence of Cross-section Dependence {txt} Authors: Maximo Sangiacomo       Req: Stata version 9
+{txt} Revised: 2018-11-16
+
+{net "describe http://repec.org/bocode/i/ipdmetan":IPDMETAN}
+{txt} module for performing two-stage IPD meta-analysis {txt} Authors: David Fisher       Req: Stata version 11
+{txt} Revised: 2018-11-16
+
+{net "describe http://repec.org/bocode/e/egfr":EGFR}
+{txt} module to calculate estimated glomerular filtration rate (eGFR){txt} Authors: Phil Clayton       Req: Stata version 12
+{txt} Revised: 2018-11-16
+
+{net "describe http://repec.org/bocode/c/cmp":CMP}
+{txt} module to implement conditional (recursive) mixed process estimator{txt} Authors: David Roodman       Req: Stata version 11 and package ghk2 (q.v.)
+{txt} Revised: 2018-11-08
+
+{hline}
+{txt} End of recent additions and updates
+
